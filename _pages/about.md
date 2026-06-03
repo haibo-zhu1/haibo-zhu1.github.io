@@ -59,8 +59,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
-# 🏆 Honors and Awards
-- *2026.05* Doctoral Fellow Award 
 
 # 📖 Education
 - *Aug. 2023 – Present*, **University of South Carolina**, Columbia, SC, USA  
@@ -101,6 +99,9 @@ University of South Carolina, Spring 2026
 - Delivered lectures on statistical fundamentals, regression models, uncertainty quantification, and regularization.
 - Developed and implemented course materials, assignments, and examinations using R, Blackboard, and CodeGrade.
 - Received an overall student evaluation rating of **4.32/5.00** based on **14 student responses** (46.7% response rate).
+
+# 🏆 Honors and Awards
+- *2026.05* Doctoral Fellow Award 
 
 <!--
 # 💻 Internships
