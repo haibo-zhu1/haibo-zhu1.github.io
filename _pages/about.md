@@ -66,6 +66,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📖 Education
 - *Aug. 2023 – Present*, **University of South Carolina**, Columbia, SC, USA  
   Ph.D. in Business Administration (Management Science), Darla Moore School of Business
+  
   Advisors: Dr. Necati Tereyağoğlu and Dr. Sriram Venkataraman
 
 - *Sep. 2018 – Jun. 2021*, **Zhejiang University**, Hangzhou, China  
