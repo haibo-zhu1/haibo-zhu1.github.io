@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in Management Science at the Darla Moore School of Business, University of South Carolina. My research focuses on operations management in developing economies and rental housing markets, with a primary emphasis on empirical research. Broadly, I am interested in how operational decisions, market design, and technology adoption shape economic and social outcomes. In developing economies, I study business models and operational strategies that improve access to essential services, including energy and digital technologies. My current work examines pay-as-you-go financing, technology adoption, and the design of operational interventions that promote sustainable development. In rental housing markets, I investigate pricing dynamics, market behavior, and the broader economic and social impacts of both long-term and short-term rental platforms. My research explores how disruptions, platform technologies, and changing demand conditions influence market outcomes and community welfare.
+I am a Ph.D. candidate in Management Science at the Darla Moore School of Business, University of South Carolina. My research focuses on operations management in developing economies and rental housing markets, with a primary emphasis on empirical research. Broadly, I am interested in how operational decisions, market design, and technology adoption shape economic and social outcomes.
+
+In developing economies, I study business models and operational strategies that improve access to essential services, including energy and digital technologies. My current work examines pay-as-you-go financing, technology adoption, and the design of operational interventions that promote sustainable development. In rental housing markets, I investigate pricing dynamics, market behavior, and the broader economic and social impacts of both long-term and short-term rental platforms. My research explores how disruptions, platform technologies, and changing demand conditions influence market outcomes and community welfare.
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -29,33 +31,17 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 📝 Research
-## Submitted Manuscript
+- **Universal Platforms, Unequal Access: Public Digital Health Initiatives in Developing Economies** (*Submitted to MSOM*)  
+  T.C. Clarkson, **H. Zhu**, P. Arora, N. Tereyağoğlu, S. Venkataraman
 
-### Universal Platforms, Unequal Access: Public Digital Health Initiatives in Developing Economies
+- **The Impact of Short-Term Vacation Rentals on Discretionary Tourist Spending and Utilization of Auxiliary Services** (*Working Paper*)  
+  **H. Zhu**, P. Arora, N. Tereyağoğlu, S. Venkataraman
 
-T.C. Clarkson, **H. Zhu**, P. Arora, N. Tereyağoğlu, S. Venkataraman
+- **Post-Disruption Pricing Dynamics in the Apartment Rental Market: A Tale of Two Cities** (*Working Paper*)  
+  **H. Zhu**, P. Pekgün, N. Tereyağoğlu
 
-Submitted to *Manufacturing & Service Operations Management (MSOM)*
-
----
-
-## Working Papers
-
-### The Impact of Short-Term Vacation Rentals on Discretionary Tourist Spending and Utilization of Auxiliary Services
-
-**H. Zhu**, P. Arora, N. Tereyağoğlu, S. Venkataraman
-
-### Post-Disruption Pricing Dynamics in the Apartment Rental Market: A Tale of Two Cities
-
-**H. Zhu**, P. Pekgün, N. Tereyağoğlu
-
----
-
-## Work in Progress
-
-### Adoption and Business Model Design for Clean Cooking Technologies in Developing Economies
-
-**H. Zhu**, B. Flicker, N. Tereyağoğlu, S. Venkataraman
+- **Adoption and Business Model Design for Clean Cooking Technologies in Developing Economies** (*Work in Progress*)  
+  **H. Zhu**, B. Flicker, N. Tereyağoğlu, S. Venkataraman
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -73,7 +59,7 @@ Submitted to *Manufacturing & Service Operations Management (MSOM)*
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2026.05* Doctoral Fellow Award 
 
 # 📖 Education
