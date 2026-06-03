@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in Management Science at the Darla Moore School of Business, University of South Carolina. My research focuses on operations management in developing economies and rental housing markets, with a primary emphasis on empirical research. Broadly, I am interested in how operational decisions, market design, and technology adoption shape economic and social outcomes.
+I am a Ph.D. candidate in Management Science at the Darla Moore School of Business, University of South Carolina. I am expected to be on the academic job market in Fall 2027. My research focuses on operations management in developing economies and rental housing markets, with a primary emphasis on empirical research. Broadly, I am interested in how operational decisions, market design, and technology adoption shape economic and social outcomes.
 
-In developing economies, I study business models and operational strategies that improve access to essential services, including energy and digital technologies. My current work examines pay-as-you-go financing, technology adoption, and the design of operational interventions that promote sustainable development. In rental housing markets, I investigate pricing dynamics, market behavior, and the broader economic and social impacts of both long-term and short-term rental platforms. My research explores how disruptions, platform technologies, and changing demand conditions influence market outcomes and community welfare.
+In developing economies, I study business models and operational strategies that improve access to essential services, including energy and digital technologies. My current work examines pay-as-you-go financing, technology adoption, and the design of operational interventions that promote sustainable development.
+
+In rental housing markets, I investigate pricing dynamics, market behavior, and the broader economic and social impacts of both long-term and short-term rental platforms. My research explores how disruptions, platform technologies, and changing demand conditions influence market outcomes and community welfare.
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -31,8 +33,8 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 📝 Research
-- **Universal Platforms, Unequal Access: Public Digital Health Initiatives in Developing Economies** (*Submitted to MSOM*)  
-  T.C. Clarkson, **H. Zhu**, P. Arora, N. Tereyağoğlu, S. Venkataraman
+- **Universal Platforms, Unequal Access: Public Digital Health Initiatives in Developing Economies** (*Submitted to Manufacturing & Service Operations Management*)  
+  T. C. Clarkson, **H. Zhu**, P. Arora, N. Tereyağoğlu, S. Venkataraman
 
 - **The Impact of Short-Term Vacation Rentals on Discretionary Tourist Spending and Utilization of Auxiliary Services** (*Working Paper*)  
   **H. Zhu**, P. Arora, N. Tereyağoğlu, S. Venkataraman
@@ -62,19 +64,14 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Education
 - *Aug. 2023 – Present*, **University of South Carolina**, Columbia, SC, USA  
-  Ph.D. in Business Administration (Management Science), Darla Moore School of Business  
-  Anticipated Graduation: May 2028  
+  Ph.D. in Business Administration (Management Science), Darla Moore School of Business
   Advisors: Dr. Necati Tereyağoğlu and Dr. Sriram Venkataraman
 
 - *Sep. 2018 – Jun. 2021*, **Zhejiang University**, Hangzhou, China  
-  M.S. in Architectural and Civil Engineering  
-  GPA: 3.90/4.00  
-  Outstanding Postgraduate Recipient (Oct. 2019)
+  M.S. in Architectural and Civil Engineering
 
 - *Sep. 2014 – Jun. 2018*, **China University of Mining and Technology**, Xuzhou, China  
-  B.S. in Civil Engineering  
-  GPA: 3.89/4.00  
-  National Encouragement Scholarship Recipient (Sep. 2016)
+  B.S. in Civil Engineering
 
 # 💬 Conference Presentations
 ### Post-Disruption Pricing Dynamics in the Apartment Rental Market: A Tale of Two Cities
