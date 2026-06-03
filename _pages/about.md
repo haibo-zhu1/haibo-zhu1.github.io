@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in Management Science at the Darla Moore School of Business, University of South Carolina. I am expected to be on the academic job market in Fall 2027. My research focuses on operations management in developing economies and rental housing markets, with a primary emphasis on empirical research. Broadly, I am interested in how operational decisions, market design, and technology adoption shape economic and social outcomes.
+I am a Ph.D. candidate in Management Science at the [Darla Moore School of Business](https://sc.edu/study/colleges_schools/moore/), University of South Carolina. I am expected to be on the academic job market in Fall 2027. My research focuses on operations management in developing economies and rental housing markets, with a primary emphasis on empirical research. Broadly, I am interested in how operational decisions, market design, and technology adoption shape economic and social outcomes.
 
 In developing economies, I study business models and operational strategies that improve access to essential services, including energy and digital technologies. My current work examines pay-as-you-go financing, technology adoption, and the design of operational interventions that promote sustainable development.
 
@@ -102,7 +102,7 @@ University of South Carolina, Spring 2026
 
 <br>
 # 🏆 Honors and Awards
-- *2026.05*   Doctoral Fellow Award 
+- *May 2026*, &nbsp Doctoral Fellow Award 
 
 <!--
 # 💻 Internships
