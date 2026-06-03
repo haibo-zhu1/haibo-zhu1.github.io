@@ -102,7 +102,7 @@ University of South Carolina, Spring 2026
 
 <br>
 # 🏆 Honors and Awards
-- *May 2026*, &nbsp Doctoral Fellow Award 
+- *May 2026*, Doctoral Fellow Award 
 
 <!--
 # 💻 Internships
