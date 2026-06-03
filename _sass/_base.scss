@@ -12,7 +12,8 @@ body {
   padding: 0;
   padding-bottom: 0em;
   color: $text-color;
-  font-family: Aptos, sans-serif !important;
+  font-family: "Inter", sans-serif !important;
+  font-weight: 300;
   line-height: 1.5;
 
   &.overflow--hidden {
@@ -24,7 +25,8 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
-  font-family: Aptos, sans-serif !important;
+  font-family: "Inter", sans-serif !important;
+  font-weight: 600;
   font-weight: bold;
 }
 
@@ -60,7 +62,8 @@ small, .small {
 
 p {
   margin-bottom: 0.5em;
-  font-family: Aptos, sans-serif !important;
+  font-family: "Inter", sans-serif !important;
+  font-weight: 300;
 }
 
 u,
