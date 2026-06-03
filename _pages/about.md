@@ -17,19 +17,50 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Ph.D. candidate in Management Science at the Darla Moore School of Business, University of South Carolina. My research focuses on operations management in developing economies and rental housing markets, with a primary emphasis on empirical research. Broadly, I am interested in how operational decisions, market design, and technology adoption shape economic and social outcomes. In developing economies, I study business models and operational strategies that improve access to essential services, including energy and digital technologies. My current work examines pay-as-you-go financing, technology adoption, and the design of operational interventions that promote sustainable development. In rental housing markets, I investigate pricing dynamics, market behavior, and the broader economic and social impacts of both long-term and short-term rental platforms. My research explores how disruptions, platform technologies, and changing demand conditions influence market outcomes and community welfare.
 
+<!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-->
 
-# 📝 Publications 
+# 📝 Research
+## Submitted Manuscript
 
+### Universal Platforms, Unequal Access: Public Digital Health Initiatives in Developing Economies
+
+T.C. Clarkson, **H. Zhu**, P. Arora, N. Tereyağoğlu, S. Venkataraman
+
+Submitted to *Manufacturing & Service Operations Management (MSOM)*
+
+---
+
+## Working Papers
+
+### The Impact of Short-Term Vacation Rentals on Discretionary Tourist Spending and Utilization of Auxiliary Services
+
+**H. Zhu**, P. Arora, N. Tereyağoğlu, S. Venkataraman
+
+### Post-Disruption Pricing Dynamics in the Apartment Rental Market: A Tale of Two Cities
+
+**H. Zhu**, P. Pekgün, N. Tereyağoğlu
+
+---
+
+## Work in Progress
+
+### Adoption and Business Model Design for Clean Cooking Technologies in Developing Economies
+
+**H. Zhu**, B. Flicker, N. Tereyağoğlu, S. Venkataraman
+
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
@@ -41,18 +72,51 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
+-->
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.05* Doctoral Fellow Award 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Education
+- *Aug. 2023 – Present*, **University of South Carolina**, Columbia, SC, USA  
+  Ph.D. in Business Administration (Management Science), Darla Moore School of Business  
+  Anticipated Graduation: May 2028  
+  Advisors: Dr. Necati Tereyağoğlu and Dr. Sriram Venkataraman
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *Sep. 2018 – Jun. 2021*, **Zhejiang University**, Hangzhou, China  
+  M.S. in Architectural and Civil Engineering  
+  GPA: 3.90/4.00  
+  Outstanding Postgraduate Recipient (Oct. 2019)
 
+- *Sep. 2014 – Jun. 2018*, **China University of Mining and Technology**, Xuzhou, China  
+  B.S. in Civil Engineering  
+  GPA: 3.89/4.00  
+  National Encouragement Scholarship Recipient (Sep. 2016)
+
+# 💬 Conference Presentations
+### Post-Disruption Pricing Dynamics in the Apartment Rental Market: A Tale of Two Cities
+
+Presented at:
+- 36th Annual POMS Conference, Reno, NV, May 2026
+- 35th Annual POMS Conference, Atlanta, GA, May 2025
+
+### The Impact of Short-Term Vacation Rentals on Discretionary Tourist Spending and Utilization of Auxiliary Services
+
+Presented at:
+- 36th Annual POMS Conference, Reno, NV, May 2026
+- INFORMS Annual Meeting, Atlanta, GA, October 2025
+
+# 👨‍🏫 Teaching Experience
+
+### Instructor of Record
+
+**MGSC 291: Applied Statistics for Business**  
+University of South Carolina, Spring 2026
+
+- Delivered lectures on statistical fundamentals, regression models, uncertainty quantification, and regularization.
+- Developed and implemented course materials, assignments, and examinations using R, Blackboard, and CodeGrade.
+- Received an overall student evaluation rating of **4.32/5.00** based on **14 student responses** (46.7% response rate).
+
+<!--
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
