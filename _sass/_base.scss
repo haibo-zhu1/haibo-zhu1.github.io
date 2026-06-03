@@ -12,7 +12,7 @@ body {
   padding: 0;
   padding-bottom: 0em;
   color: $text-color;
-  font-family: $global-font-family;
+  font-family: "Times New Roman", Times, serif !important;
   line-height: 1.5;
 
   &.overflow--hidden {
