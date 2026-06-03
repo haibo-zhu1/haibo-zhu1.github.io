@@ -2,7 +2,7 @@
 
 # Site Settings
 title                    : "Haibo Zhu"
-description              : "Personal website of Haibo Zhu, Ph.D. student in Management Science at the Darla Moore School of Business, University of South Carolina."
+description              : ""
 repository               : "haibo-zhu1/haibo-zhu1.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -18,12 +18,12 @@ baidu_site_verification  :
 author:
   name             : "Haibo Zhu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D. Student in Management Science, Darla Moore School of Business, University of South Carolina"
+  bio              : "Ph.D. Candidate in Management Science, Darla Moore School of Business, University of South Carolina"
   location         : "Columbia, SC, United States"
   employer         : "University of South Carolina"
   pubmed           :
   googlescholar    :
-  email            : "haibozhu808@gmail.com"
+  email            : "haibo@email.sc.edu"
   researchgate     :
   uri              : "https://haibo-zhu1.github.io"
   bitbucket        :
