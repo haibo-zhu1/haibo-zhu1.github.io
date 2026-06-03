@@ -61,6 +61,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
+
 <br>
 # 📖 Education
 - *Aug. 2023 – Present*, **University of South Carolina**, Columbia, SC, USA  
@@ -72,6 +73,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - *Sep. 2014 – Jun. 2018*, **China University of Mining and Technology**, Xuzhou, China  
   B.S. in Civil Engineering
+  
 <br>
 # 💬 Conference Presentations
 ### Post-Disruption Pricing Dynamics in the Apartment Rental Market: A Tale of Two Cities
@@ -85,6 +87,7 @@ Presented at:
 Presented at:
 - 36th Annual POMS Conference, Reno, NV, May 2026
 - INFORMS Annual Meeting, Atlanta, GA, October 2025
+
 <br>
 # 👨‍🏫 Teaching Experience
 
@@ -96,6 +99,7 @@ University of South Carolina, Spring 2026
 - Delivered lectures on statistical fundamentals, regression models, uncertainty quantification, and regularization.
 - Developed and implemented course materials, assignments, and examinations using R, Blackboard, and CodeGrade.
 - Received an overall student evaluation rating of **4.32/5.00** based on **14 student responses** (46.7% response rate).
+
 <br>
 # 🏆 Honors and Awards
 - *2026.05* Doctoral Fellow Award 
