@@ -42,7 +42,7 @@ My research interest includes neural machine translation and computer vision. I 
 - **Post-Disruption Pricing Dynamics in the Apartment Rental Market: A Tale of Two Cities** (*Working Paper*)  
   **H. Zhu**, P. Pekgün, N. Tereyağoğlu
 
-- **Adoption and Business Model Design for Clean Cooking Technologies in Developing Economies** (*Work in Progress*)  
+- **Cross-Product Digital Collateral and Clean Cooking Adoption: A Field Experiment in Kenya** (*Work in Progress*)  
   **H. Zhu**, B. Flicker, N. Tereyağoğlu, S. Venkataraman
 
 <!--
@@ -65,8 +65,7 @@ My research interest includes neural machine translation and computer vision. I 
 <br>
 # 📖 Education
 - *Aug. 2023 – Present*, **University of South Carolina**, Columbia, SC, USA  
-  Ph.D. in Business Administration (Management Science), Darla Moore School of Business
-  
+  Ph.D. in Business Administration (Management Science), Darla Moore School of Business  
   Advisors: Dr. Necati Tereyağoğlu and Dr. Sriram Venkataraman
 
 - *Sep. 2018 – Jun. 2021*, **Zhejiang University**, Hangzhou, China  
