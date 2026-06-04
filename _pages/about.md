@@ -91,10 +91,7 @@ Presented at:
 <br>
 # 👨‍🏫 Teaching Experience
 
-### Instructor of Record
-
-**MGSC 291: Applied Statistics for Business**  
-University of South Carolina, Spring 2026
+**MGSC 291: Applied Statistics for Business**, University of South Carolina, Spring 2026
 
 - Delivered lectures on statistical fundamentals, regression models, uncertainty quantification, and regularization.
 - Developed and implemented course materials, assignments, and examinations using R, Blackboard, and CodeGrade.
@@ -102,7 +99,7 @@ University of South Carolina, Spring 2026
 
 <br>
 # 🏆 Honors and Awards
-- *May 2026*, Doctoral Fellow Award 
+- *May 2026*, **Doctoral Fellow Award** 
 
 <!--
 # 💻 Internships
