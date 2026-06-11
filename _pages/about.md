@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in Management Science at the [Darla Moore School of Business](https://sc.edu/study/colleges_schools/moore/), University of South Carolina. I am expected to be on the academic job market in Fall 2027. My research focuses on operations management in developing economies and rental housing markets, with a primary emphasis on empirical research. Broadly, I am interested in how operational decisions, market design, and technology adoption shape economic and social outcomes.
+I am a Ph.D. candidate in Management Science at the [Darla Moore School of Business](https://sc.edu/study/colleges_schools/moore/), [University of South Carolina](https://sc.edu/), jointly advised by Profs. [Sriram Venkataraman](https://sc.edu/study/colleges_schools/moore/directory/venkataraman_sriram.php) and [Necati Tereyağoğlu](https://sites.google.com/view/necatitereyagoglu). I am expected to be on the academic job market in Fall 2027.
+
+My research focuses on operations management in developing economies and rental housing markets, with a primary emphasis on empirical research. Broadly, I am interested in how operational decisions, market design, and technology adoption shape economic and social outcomes.
 
 In developing economies, I study business models and operational strategies that improve access to essential services, including energy and digital technologies. My current work examines pay-as-you-go financing, technology adoption, and the design of operational interventions that promote sustainable development.
 
@@ -66,7 +68,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📖 Education
 - *Aug. 2023 – Present*, **University of South Carolina**, Columbia, SC, USA  
   Ph.D. in Business Administration (Management Science), Darla Moore School of Business  
-  Advisors: Dr. Necati Tereyağoğlu and Dr. Sriram Venkataraman
+  Advisors: Dr. Sriram Venkataraman and Dr. Necati Tereyağoğlu 
 
 - *Sep. 2018 – Jun. 2021*, **Zhejiang University**, Hangzhou, China  
   M.S. in Architectural and Civil Engineering
