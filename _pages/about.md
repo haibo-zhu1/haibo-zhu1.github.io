@@ -19,11 +19,13 @@ redirect_from:
 
 I am a Ph.D. candidate in Management Science at the [Darla Moore School of Business](https://sc.edu/study/colleges_schools/moore/), [University of South Carolina](https://sc.edu/), jointly advised by Profs. [Sriram Venkataraman](https://sc.edu/study/colleges_schools/moore/directory/venkataraman_sriram.php) and [Necati Tereyağoğlu](https://sites.google.com/view/necatitereyagoglu). I am expected to be on the academic job market in Fall 2027.
 
-My research focuses on operations management in developing economies and rental housing markets, with a primary emphasis on empirical research. Broadly, I am interested in how operational decisions, market design, and technology adoption shape economic and social outcomes.
+**Research Interests:** Empirical Operations Management | Living Conditions in Developing Economies | Energy Access | Technology Adoption | Housing Market
+
+My research focuses on operations management in developing economies and housing markets, with a primary emphasis on empirical research. Broadly, I am interested in how operational decisions, market design, and technology adoption shape economic and social outcomes.
 
 In developing economies, I study business models and operational strategies that improve access to essential services, including energy and digital technologies. My current work examines pay-as-you-go financing, technology adoption, and the design of operational interventions that promote sustainable development.
 
-In rental housing markets, I investigate pricing dynamics, market behavior, and the broader economic and social impacts of both long-term and short-term rental platforms. My research explores how disruptions, platform technologies, and changing demand conditions influence market outcomes and community welfare.
+In housing markets, I investigate pricing dynamics, market behavior, and the broader economic and social impacts of both long-term and short-term rental platforms. My research explores how disruptions, platform technologies, and changing demand conditions influence market outcomes and community welfare.
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
