@@ -21,6 +21,8 @@ I am a Ph.D. candidate in Management Science at the [Darla Moore School of Busin
 
 **Research Interests:** Empirical Operations Management • Developing Economies • Energy Access • Technology Adoption • Housing Markets
 
+---
+
 My research focuses on operations management in developing economies and housing markets, with a primary emphasis on empirical research. Broadly, I am interested in how operational decisions, market design, and technology adoption shape economic and social outcomes.
 
 In developing economies, I study business models and operational strategies that improve access to essential services, including energy and digital technologies. My current work examines pay-as-you-go financing, technology adoption, and the design of operational interventions that promote sustainable development.
