@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D. candidate in Management Science at the [Darla Moore School of Business](https://sc.edu/study/colleges_schools/moore/), [University of South Carolina](https://sc.edu/), jointly advised by Profs. [Sriram Venkataraman](https://sc.edu/study/colleges_schools/moore/directory/venkataraman_sriram.php) and [Necati Tereyağoğlu](https://sites.google.com/view/necatitereyagoglu). I am expected to be on the academic job market in Fall 2027.
 
-**Research Interests:** Empirical Operations Management | Living Conditions in Developing Economies | Energy Access | Technology Adoption | Housing Market
+**Research Interests:** Empirical Operations Management • Developing Economies • Energy Access • Technology Adoption • Housing Markets
 
 My research focuses on operations management in developing economies and housing markets, with a primary emphasis on empirical research. Broadly, I am interested in how operational decisions, market design, and technology adoption shape economic and social outcomes.
 
