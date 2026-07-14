@@ -19,15 +19,14 @@ redirect_from:
 
 I am a Ph.D. candidate in Management Science at the [Darla Moore School of Business](https://sc.edu/study/colleges_schools/moore/), [University of South Carolina](https://sc.edu/), jointly advised by Profs. [Necati Tereyağoğlu](https://sites.google.com/view/necatitereyagoglu) and [Sriram Venkataraman](https://sc.edu/study/colleges_schools/moore/directory/venkataraman_sriram.php). I am expected to be on the academic job market in Fall 2027.
 
-**Research Interests:** Empirical Operations Management • Developing Economies • Energy Access • Technology Adoption • Housing Markets
+**Research Interests:** Empirical Operations Management • Technology Adoption • Service Operations • Developing Economies
 
 ---
 
-My research focuses on operations management in developing economies and housing markets, with a primary emphasis on empirical research. Broadly, I am interested in how operational decisions, market design, and technology adoption shape economic and social outcomes.
+My research lies broadly in empirical operations management, with a particular focus on technology adoption and service operations in developing economies. I study how operational and business model innovations improve the delivery and adoption of essential services. My current research focuses on clean energy access and digital health systems, examining how financing mechanisms, technology adoption, and operational interventions influence consumer decisions and long-term service outcomes. Through this work, I aim to generate insights that help organizations expand access to essential services while improving operational effectiveness.
 
-In developing economies, I study business models and operational strategies that improve access to essential services, including energy and digital technologies. My current work examines pay-as-you-go financing, technology adoption, and the design of operational interventions that promote sustainable development.
+I also work on research in housing markets, where I investigate pricing dynamics, market behavior, and the broader economic and social impacts of both long-term and short-term rental platforms. My research explores how disruptions, platform technologies, and changing demand conditions influence market outcomes and community welfare.
 
-In housing markets, I investigate pricing dynamics, market behavior, and the broader economic and social impacts of both long-term and short-term rental platforms. My research explores how disruptions, platform technologies, and changing demand conditions influence market outcomes and community welfare.
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -101,7 +100,7 @@ Presented at:
 
 - Delivered lectures on statistical fundamentals, regression models, uncertainty quantification, and regularization.
 - Developed and implemented course materials, assignments, and examinations using R, Blackboard, and CodeGrade.
-- Received an overall student evaluation rating of **4.32/5.00** based on **14 student responses** (46.7% response rate).
+- Received an overall student evaluation rating of **4.32/5.00** based on a 46.7% response rate.
 
 <br>
 # 🏆 Honors and Awards
