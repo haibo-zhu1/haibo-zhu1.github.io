@@ -39,7 +39,7 @@ My research interest includes neural machine translation and computer vision. I 
 <br>
 # 📝 Research
 - **Universal Platforms, Unequal Access: Public Digital Health Initiatives in Developing Economies** (*Submitted to Manufacturing & Service Operations Management*)  
-  T. C. Clarkson, **H. Zhu**, P. Arora, N. Tereyağoğlu, S. Venkataraman
+  C. Clarkson, **H. Zhu**, P. Arora, N. Tereyağoğlu, S. Venkataraman
 
 - **The Impact of Short-Term Vacation Rentals on Discretionary Tourist Spending and Utilization of Auxiliary Services** (*Working Paper*)  
   **H. Zhu**, P. Arora, N. Tereyağoğlu, S. Venkataraman
@@ -47,7 +47,7 @@ My research interest includes neural machine translation and computer vision. I 
 - **Post-Disruption Pricing Dynamics in the Apartment Rental Market: A Tale of Two Cities** (*Working Paper*)  
   **H. Zhu**, P. Pekgün, N. Tereyağoğlu
 
-- **Cross-Product Digital Collateral and Clean Cooking Adoption: A Field Experiment in Kenya** (*Work in Progress*)  
+- **Adoption and Sustained Use of Clean Cooking: A Field Experiment in Kenya** (*Work in Progress*)  
   **H. Zhu**, B. Flicker, N. Tereyağoğlu, S. Venkataraman
 
 <!--
